@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Earthlings!
+
+Take me to the nearest bar.
+That's all folks.
